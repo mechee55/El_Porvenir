@@ -573,6 +573,11 @@ h1.large {
   .main-nav li {
     font-size: 11px;
   }
+
+  .block-tabs li {
+    margin-top: 20px;
+  }
+
   .contact {
     padding-top: 150px !important;
     padding-bottom: 150px !important;
@@ -590,6 +595,11 @@ h1.large {
     -webkit-appearance: none;
     /* -webkit-border-radius: 0; */
   }
+
+  .block-tabs li {
+    margin-top: 20px;
+  }
+
   .sing {
     max-width: 40%;
   }
@@ -640,6 +650,10 @@ h1.large {
   .main-nav li a {
     color: #353031;
     display: inline-block;
+  }
+
+  .block-tabs li {
+    margin-top: 20px;
   }
 }
 
